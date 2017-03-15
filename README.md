@@ -1,9 +1,9 @@
-# gitskills
-
-1. sdlkfj
-  1. sdljkfjdsf
-  2. sdlfjsd
-2. sdlfkjs
-3. sdlsfkj
-  1. sdlfkj
-  2. dzlkfj
+1. Make my changes
+  1. Fix bug
+  2. Improve formatting
+    * Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+  * Describe my changes
+  * Mention all the members of my team
+    * Ask for feedback
